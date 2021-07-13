@@ -1,2 +1,17 @@
-# Godot-ChromaticAberrationFX
-Chromatic aberration for godot engine.
+# Godot Chromatic Aberration
+------------------------------------
+
+Chromatic aberration FX for godot engine
+------------------------------------
+![Screenshot](https://raw.githubusercontent.com/7leodev/Godot-ChromaticAberration/main/Screenshots/Screenshot0.jpg)
+
+
+## Status:
+> 1.0.0
+------------------------------------
+
+## Features:
+- Simple Chromatic Aberration FX.
+- GLES2 and GLES3 Support.
+
+
